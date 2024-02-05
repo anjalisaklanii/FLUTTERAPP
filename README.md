@@ -13,10 +13,11 @@ Features :
 9. EVERYTHING REAL TIME
 10. Sign Out
 
-    
-![image](https://github.com/anjalisaklanii/FLUTTERAPP/assets/158140095/a94e3a90-2e16-4270-b5b6-8cc6ffdf4b24)
 
-![image](https://github.com/anjalisaklanii/FLUTTERAPP/assets/158140095/2156a79d-dae5-4cf3-8d21-bd232f366e9e)
+https://github.com/anjalisaklanii/FLUTTERAPP/blob/main/1.gif
 
+https://github.com/anjalisaklanii/FLUTTERAPP/blob/main/2.gif
+
+https://github.com/anjalisaklanii/FLUTTERAPP/blob/main/3.gif
 
 
