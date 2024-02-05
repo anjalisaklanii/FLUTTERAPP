@@ -16,8 +16,8 @@ Features :
 
 ![](https://github.com/anjalisaklanii/FLUTTERAPP/blob/main/1.gif)
 
-https://github.com/anjalisaklanii/FLUTTERAPP/blob/main/2.gif
+![](https://github.com/anjalisaklanii/FLUTTERAPP/blob/main/2.gif)
 
-https://github.com/anjalisaklanii/FLUTTERAPP/blob/main/3.gif
+![](https://github.com/anjalisaklanii/FLUTTERAPP/blob/main/3.gif)
 
 
