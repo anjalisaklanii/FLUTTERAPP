@@ -14,7 +14,7 @@ Features :
 10. Sign Out
 
 
-https://github.com/anjalisaklanii/FLUTTERAPP/blob/main/1.gif
+![](https://github.com/anjalisaklanii/FLUTTERAPP/blob/main/1.gif)
 
 https://github.com/anjalisaklanii/FLUTTERAPP/blob/main/2.gif
 
